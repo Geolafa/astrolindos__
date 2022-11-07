@@ -1,0 +1,24 @@
+p{
+color: blue;
+    background-color: rgb(238, 226, 226);
+}
+
+body{
+    font-family: "time new roman",  monospace;
+    background-image: url(../imagens/bug.jpeg);
+}
+
+estilização de bordas: 
+/*bordas*/
+border-color: red;
+border-style: solid;
+border-width: 4px;
+
+p{  
+   /*espaçamentos*/ 
+   text-align: justify; /*alinhamento de textos*/
+   line-height: 30px;
+   /*tamanho da altura de cad linha*/
+   letter-spacing: 1px;
+   /*tamanho do espaço entre cada letra*/ 
+}
